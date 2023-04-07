@@ -1,0 +1,34 @@
+/*
+Flaticon icon font: Flaticon
+Creation date: 09/08/2017 11:50
+*/
+
+@font-face {
+	font-family: "Theme_icon";
+	src: url("Flaticon.woff2") format("woff2"),
+		 url("Flaticon.woff") format("woff");
+	font-weight: normal;
+	font-style: normal;
+}
+
+[class^="theme_icon-"]:before, [class*=" theme_icon-"]:before,
+[class^="theme_icon-"]:after, [class*=" theme_icon-"]:after {
+	font-family: Theme_icon;
+	font-size: 26px;
+	font-style: normal;
+	margin-left: 9px;
+}
+
+.theme_icon-shopping-bag:before { content: "\f100"; }       /* Bag            - https://www.flaticon.com/free-icon/shopping-bag_142605 */
+.theme_icon-search:before { content: "\f101"; }				/* Search     	  - https://www.flaticon.com/free-icon/searching-interface-symbol-of-magnifying-glass_54398 */
+.theme_icon-cart:before { content: "\f102"; }				/* Cart 		  - https://www.flaticon.com/free-icon/supermarket-cart-silhouette_58215 */
+.theme_icon-fullscreen:before { content: "\f103"; }			/* Full Screen 	  - https://www.flaticon.com/free-icon/fullscreen_483333 */
+.theme_icon-close:before { content: "\f104"; }			    /* Close 	      - https://www.flaticon.com/free-icon/close_463065 */
+.theme_icon-next:before { content: "\f105"; }			    /* Right Arrow 	  - https://www.flaticon.com/free-icon/right-arrow_101440 */
+.theme_icon-comment:before { content: "\f106"; }			/* Chat 	      - https://www.flaticon.com/free-icon/chat_134680 */
+.theme_icon-like:before { content: "\f107"; }			    /* Star 	      - https://www.flaticon.com/free-icon/star-favourite_13977 */
+.theme_icon-home-repair:before { content: "\f108"; }		/* Ruller 	      - https://www.flaticon.com/free-icon/ruler_474993 */
+.theme_icon-heart:before { content: "\f109"; }			    /* Heart 	      - https://www.flaticon.com/free-icon/heart_126471 */
+.theme_icon-exit:before { content: "\f10a"; }               /* Delete 	      - https://www.flaticon.com/free-icon/remove-button_39 */
+.theme_icon-envelopment:before { content: "\f10b"; }       /* Envelopment 	  - https://www.flaticon.com/free-icon/e-mail-envelope_20061 */
+

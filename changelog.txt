@@ -1,0 +1,295 @@
+==2022.07.28 - version 2.7.6==
+ * Updated: All required plugins
+ * Optimized: GT3 themes core plugin
+ * Added: Custom Fonts
+ * Fixed: Minor bug fixes
+
+==2022.06.08 - version 2.7.3==
+ * Added: GT3 Kits system
+ * Added: Integrated GT3 Kits into theme core
+ * Improved: Demo content import
+ * Improved: Optimized GT3 themes core plugin
+ * Fixed: Minor bug fixes
+
+==2022.05.31 - version 2.7.1==
+ * Improved: WordPress 6.0 compatibility
+ * Updated: All required plugins
+ * Updated: Optimization for upcoming new features
+ * Fixed: Minor bug fixes
+
+==2022.04.26 - version 2.6.9==
+ * Updated: All required plugins
+ * Fixed: Custom 404 page issue
+ * Fixed: Minor bug fixes
+
+==2022.04.12 - version 2.6.8==
+ * Updated: All required plugins
+ * Fixed: Styling issue in Elementor editor
+ * Fixed: Minor bug fixes
+
+==2022.04.08 - version 2.6.7==
+ * Updated: All required plugins
+ * Added: Theme optimization
+ * Added: Global js minification
+ * Added: GT3 image carousel
+ * Fixed: Minor bug fixes
+
+==2022.03.03 - version 2.6.6==
+ * Updated: All required plugins
+ * Fixed: Demo import issues on some servers
+ * Fixed: Minor bug fixes
+
+==2022.02.21 - version 2.6.4==
+ * Improved: Portfolio CPT
+ * Fixed: WooCommerce compatibility issues
+ * Fixed: Minor bug fixes
+
+==2022.01.26 - version 2.6.2==
+ * Improved: WordPres 5.9 compatibility
+ * Fixed: Minor bug fixes
+
+==2022.01.13 - version 2.5.9==
+ * Improved: Moved theme options to WP customizer
+ * Improved: Global fonts and colors moved to Elementor
+ * Improved: Optimized theme core plugin
+ * Improved: Theme performance
+ * Improved: Theme dashboard functionality
+ * Updated: All required plugins
+ * Fixed: Minor bug fixes
+
+==2021.12.06 - version 2.5.5==
+ * Updated: All required plugins
+ * Fixed: Fatal error
+ * Fixed: Minor bug fixes
+
+==2021.11.25 - version 2.5.4==
+ * Updated: All required plugins
+ * Updated: PHP 8.0 support
+ * Updated: Theme documenation
+ * Fixed: Minor bug fixes
+
+==2021.10.28 - version 2.5.3==
+ * Updated: All required plugins
+ * Added: Mega Mene to WPDaddy builder
+ * Improved: Theme performance
+ * Fixed: Minor bug fixes
+
+==2021.10.19 - version 2.5.2==
+ * Updated: All required plugins
+ * Added: Ajax Portfolio/Studies
+ * Fixed: Minor bug fixes
+
+==2021.10.04 - version 2.5.1==
+ * Updated: All required plugins
+ * Added: New homepage #13
+ * Added: New widget "Animated Headlines"
+ * Added: New widget "Hotspot"
+ * Improved: Theme optimization
+ * Fixed: Minor bug fixes
+
+==2021.09.06 - version 2.5.0==
+ * Updated: All required plugins
+ * Improved: Theme optimization
+ * Fixed: Minor bug fixes
+
+==2021.08.16 - version 2.4.9==
+ * Updated: All required plugins
+ * Fixed: Demo import issue
+ * Fixed: Minor bug fixes
+
+==2021.08.09 - version 2.4.7==
+ * Updated: New Mailchimp plugin support
+ * Updated: GT3 Photo & Video Pro version is available for free
+ * Improved: Theme core plugin
+ * Fixed: Minor bug fixes
+
+==2021.07.29 - version 2.4.6==
+ * Optimized: Demo import
+ * Fixed: Minor bug fixes
+
+==2021.07.21 - version 2.4.4==
+ * Optimized: Header & footer
+ * Fixed: Minor bug fixes
+
+==2021.07.21 - version 2.4.3==
+ * Updated: WordPress 5.8 compatibility
+ * Updated: All required plugins
+ * Improved: WPDaddy plugin
+ * Fixed: Minor bug fixes
+
+==2021.07.12 - version 2.4.2==
+ * Updated: All required plugins
+ * Added: New custom demo import tool
+ * Improved: Theme optimization
+ * Fixed: Minor bug fixes
+
+==2021.06.03 - version 2.4.0==
+ * Updated: All required plugins
+ * Fixed: Demo import issue
+ * Fixed: Minor bug fixes
+
+==2021.06.01 - version 2.3.9==
+ * Improved: PHP 8.0.1 compatibility
+ * Fixed: Minor bug fixes
+
+==2021.05.26 - version 2.3.8==
+ * Fixed: Jetpack compatibility issue
+ * Fixed: Minor bug fixes
+
+==2021.05.25 - version 2.3.7==
+ * Added: New homepage 12
+ * Added: New options to widgets
+ * Updated: All required plugins
+ * Fixed: Minor bug fixes
+
+==2021.05.15 - version 2.3.5==
+ * Added: New theme dashboard
+ * Added: New theme registration
+ * Added: New demo import tool
+ * Improved: Theme optimization
+ * Fixed: Minor bug fixes
+
+==2021.04.14 - version 2.3.4==
+ * Fixed: Fatal error issue if WooCommerce disabled
+ * Fixed: Minor bug fixes
+
+==2021.04.13 - version 2.3.3==
+ * Improved: Theme optimizaiton for WooCommerce
+ * Updated: All required plugins
+ * Added: New homepage
+ * Added: New WooCommerce widget to WPDadddy Pro
+ * Fixed: Minor bug fixes
+
+==2021.03.01 - version 2.3.2==
+ * Updated: All required plugins
+ * Fixed: Minor bug fixes
+
+==2021.02.24 - version 2.3.1==
+ * Updated: All required plugins
+ * Fixed: Elementor Pro compatibility issue
+ * Fixed: Minor bug fixes
+
+==2021.02.09 - version 2.3.0==
+ * Improved: Theme optimization
+ * Updated: All required plugins
+ * Fixed: Minor bug fixes
+
+==2021.01.30 - version 2.2.9==
+ * Fixed: Child theme issue
+ * Fixed: Minor bug fixes
+
+==2021.01.22 - version 2.2.7==
+ * Improved: Theme optimization
+ * Updated: All requried plugins
+ * Fixed: Minor bug fixes
+
+==2020.12.18 - version 2.2.5==
+ * Fixed: Minor bug fixes
+
+==2020.12.09 - version 2.2.4==
+ * Updated: WordPress 5.6 compatibility
+ * Updated: All required plugins
+ * Fixed: Minor bug fixes
+
+==2020.11.24 - version 2.2.3==
+ * Added: New homepage 09
+ * Added: New options to widgets
+ * Updated: All required plugins
+ * Fixed: Minor bug fixes
+
+==2020.10.08 - version 2.2.0==
+ * Added: New homepage 08
+ * Updated: All required plugins
+ * Fixed: Minor bug fixes
+
+==2020.08.18 - version 2.1.3==
+ * Fixed: Meta boxes issue
+ * Fixed: Minor bug fixes
+
+==2020.08.13 - version 2.1.2==
+ * Added: Mega menu
+ * Updated: WordPress 5.5 compatibility
+ * Updated: All required plugins
+ * Fixed: Alt tag issue
+ * Fixed: Minor bug fixes
+
+==2020.07.29 - version 2.1.0==
+ * Added: New homepage 07
+ * Improved: Theme speed optimizaiton
+ * Improved: Theme files structure
+ * Improved: Core plugin optimizaiton
+ * Updated: All required plugins
+ * Updated: WooCommerce templates
+ * Fixed: Minor bug fixes
+
+==2020.07.22 - version 2.0.7==
+ * Updated: Revolution slider
+ * Fixed: Demo content issue affected by Elementor update
+ * Fixed: Minor bug fixes
+
+==2020.06.02 - version 2.0.5==
+ * Updated: All required plugins
+ * Improved: WPDaddy builder optimization
+ * Added: New homepage
+ * Fixed: Minor bug fixes
+
+==2020.05.27 - version 2.0.4==
+ * Updated: All required plugins
+ * Improved: Removed old tabs widget
+ * Improved: Removed GT3 header & footer builder
+ * Fixed: WooCommerce cart widget issue
+ * Fixed: Minor bug fixes
+
+==2020.05.18 - version 1.1.5==
+ * Updated: All required plugins
+ * Added: WPDaddy Builder Pro
+ * Added: Advanced tabs widget
+ * Improved: Demo import
+ * Fixed: Minor bug fixes
+
+==2020.04.27 - version 1.1.3==
+ * Fixed: WooCommerce issues
+ * Fixed: Minor bug fixes
+
+==2020.04.03 - version 1.1.1==
+ * Improved: WordPress 5.4 compatibility
+ * Updated: All required plugins
+ * Updated: Default theme options
+ * Fixed: Active menu item marker
+ * Fixed: Custom post type activation
+ * Fixed: Minor bug fixes
+
+==2020.03.18 - version 1.0.8==
+ * Added: New homepage
+ * Updated: All required plugins
+ * Updated: WooCommerce templates
+ * Updated: Demo import
+ * Fixed: Minor bug fixes
+
+==2020.01.14 - version 1.0.7.2==
+ * Updated: All required plugins
+ * Improved: Demo content import
+ * Fixed: Demo content import
+ * Fixed: Minor bug fixes
+
+==2019.12.20 - version 1.0.7==
+ * Added: New Home page
+ * Updated: All required plugins
+ * Updated: Demo import content
+ * Optimized: Speed loading time
+ * Fixed: Minor bug fixes
+
+==2019.10.26 - version 1.0.6.2==
+* Updated: WP 5.3 compatibility
+* Updated: All required plugins
+* Improved: Theme performance
+* Fixed: Minor bug fixes
+
+==2019.10.17 - version 1.0.3==
+ * Updated: All required plugins
+ * Added: Animated clouds
+ * Added: Animation to Home 2 slider
+ * Fixed: Minor bug fixes
+
+==2019.10.09 - version 1.0.0==
+ * INITIAL RELEASE
